@@ -1,4 +1,4 @@
-
+# 가로와 너비를 입력받으면 해당 사각형의 넓이를 반환해주는 함수이다. 
 def calculate_rectangle_area(x,y):
     return x * y
 
